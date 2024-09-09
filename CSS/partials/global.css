@@ -1,0 +1,10 @@
+
+/*global classes*/
+.title-text{
+    font: normal bold 35px var(--jomolhari);
+}
+.text-uppercase{
+    text-transform: uppercase;
+}
+
+/*buttons*/
